@@ -23,7 +23,7 @@ const Dashboard = () => {
         </div>
         <div className='dashboard-2'>
             <Verification/>
-            <GuestList/>        
+            <GuestList/> 
             <GuestListDate/>
             <RoomCard/>
             <UpcomingBookings/>
